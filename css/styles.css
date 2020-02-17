@@ -17,7 +17,7 @@ h1{
 }
 .left{
  background-color: white;
-  background-size: center;
+  background-size: auto;
   height: 670px;
   
   margin: 0;
