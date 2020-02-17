@@ -7,7 +7,7 @@ It is an application that helps one know his/her akan name based on the born dat
 ## Author.
  Cullen Kaberere
 
-## Technologies used.
+## Technologies used
   * Html5
   * Css
   * Javascript
