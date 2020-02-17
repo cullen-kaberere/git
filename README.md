@@ -1,4 +1,4 @@
-# Akan-Nameing.
+# Akan-Nameing
 [By Cullen Kaberere]
 
 ## Description.
